@@ -5,5 +5,8 @@ package practice;
  * @author mjmersenski
  */
 public class Receipt {
-    LineItem item;
+    private LineItem[] item;
+    private int numberOfItems;
+    
+    public
 }
